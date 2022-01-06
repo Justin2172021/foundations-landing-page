@@ -158,3 +158,16 @@ h3 {
 .sign-up-button.second {
     border: 2px solid #E5E7EB;;
 }
+
+.footer-wrapper {
+    background-color: #1F2937;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    justify-content: center;
+    font-size: 18px;
+    color: #E5E7EB;
+}
